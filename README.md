@@ -3,7 +3,7 @@
 ## Executive Summary
 This laboratory exercise demonstrates the design and implementation of a robust, hybrid Identity and Access Management (IAM) architecture. By bridging a custom-built, on-premise Active Directory environment with the Okta cloud platform (an industry-standard alternative to Google Workspace), this project establishes seamless and centralized identity federation. 
 
-Beyond fundamental directory synchronization, this deployment heavily emphasizes modern incident response readiness and DevSecOps principles. The successful execution of a Python-driven, zero-touch provisioning and de-provisioning pipeline via a secure WinRM bridge illustrates how programmatic automation can completely eliminate human latency during critical security events. 
+Beyond fundamental directory synchronization, this deployment heavily emphasizes modern incident response readiness. The successful execution of a Python-driven, zero-touch provisioning and de-provisioning pipeline via a secure WinRM bridge illustrates how programmatic automation can completely eliminate human latency during critical security events. 
 
 ---
 
